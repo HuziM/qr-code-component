@@ -4,20 +4,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview]
-  - [Links]
+- [Overview](#Overview)
+  - [Links](#Links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author]
-- [Acknowledgments]
+- [Author](#Author)
+- [Acknowledgments](#Acknowledgements)
 
 ## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://huzim.github.io/qr-code-component/)
 
 ### Built with
 
